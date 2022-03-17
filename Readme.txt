@@ -1,5 +1,7 @@
 Pre-Requisites:
 
+Please prepare a user in your network who has been added to the administrator group across the domains in which you need discovery.
+
 1) Run 'WinServer_Discovery_C2C.exe'
 
 NOTE- 
